@@ -6,4 +6,4 @@ for val in p:
         c=c+1
     t+=1 
 per = (c/t)*100;
-print("Percentage = ",per)
+per
